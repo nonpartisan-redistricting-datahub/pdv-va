@@ -6,16 +6,6 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions. 
 
-## mggg-va
-
-RDH's partner data validation for MGGG's VA file. MGGG's raw file is available [here](https://github.com/mggg-states/VA-shapefiles).
-
-View the final report [here](https://redistrictingdatahub.org/dataset/mggg-virginia-precincts-and-election-results/).
-
-## pgp-va
-
-#### _Still in progress as of 5/19/21
-
 ## vest-va-2018
 
 RDH's partner data validation for VEST's 2018 VA files. VEST's raw files are available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UBKYRU) by searching "va".
@@ -27,3 +17,15 @@ Our final validation report for this dataset is available [here](https://redistr
 RDH's partner data validation for VEST's 2016 VA files. VEST's raw files are available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I) by searching "va". 
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/state/virginia/) by filtering for "precinct and election results". Note that the 2016 results are split accross four files. 
+
+## mggg-va
+
+RDH's partner data validation for MGGG's VA file. MGGG's raw file is available [here](https://github.com/mggg-states/VA-shapefiles).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/mggg-virginia-precincts-and-election-results/).
+
+## pgp-va
+
+#### _Still in progress as of 5/19/21
+
+
