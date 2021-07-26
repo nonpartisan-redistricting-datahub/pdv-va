@@ -12,6 +12,12 @@ RDH's partner data validation for VEST's 2018 VA files. VEST's raw files are ava
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/state/virginia/) by filtering for "precinct and election results". Note that the 2018 results are split accross three files. 
 
+## vest-va-2017
+
+RDH's partner data validation for VEST's 2017 VA files. VEST's raw files are available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/VNJAB1/5DSWLQ&version=5.1 ) by searching "va". 
+
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/state/virginia/) by filtering for "precinct and election results". Note that the 2017 results are split accross three files. 
+
 ## vest-va-2016
 
 RDH's partner data validation for VEST's 2016 VA files. VEST's raw files are available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I) by searching "va". 
