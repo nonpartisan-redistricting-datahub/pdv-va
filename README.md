@@ -6,6 +6,12 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions. 
 
+## vest-va-2020
+
+RDH's partner data validation for VEST's 2020 VA files. VEST's raw files are available [here](https://dataverse.harvard.edu/file.xhtml?fileId=5371929&version=28.0)
+
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-virginia-precinct-boundaries-and-election-results-shapefile/) 
+
 ## vest-va-2018
 
 RDH's partner data validation for VEST's 2018 VA files. VEST's raw files are available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UBKYRU) by searching "va".
